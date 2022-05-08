@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "Admin",
+    "username": "Admin",
+    "pass": "Admin",
+    "isAdmin": "true"
+  },
+  {
+    "_id": "u101",
+    "username": "Tamir",
+    "pass": "Tamir Geron",
+    "isAdmin": "false"
+  },
+  {
+    "_id": "u102",
+    "username": "Or",
+    "pass": "Hello Peres",
+    "isAdmin": "false"
+  },
+  {
+    "_id": "u103",
+    "username": "Joni",
+    "pass": "Joni King",
+    "isAdmin": "false"
+  }
+]

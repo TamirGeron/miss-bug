@@ -1,0 +1,16 @@
+{
+  "name": "proj-node-server",
+  "description": "",
+  "scripts": {
+    "lala": "echo Lala!",
+    "show-files": "dir",
+    "start": "node server.js",
+    "dev": "SET SECRET1=Tamir && nodemon --ignore \"./data\" server.js"
+  },
+  "author": "Me",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cryptr": "^6.0.3",
+    "express": "^4.18.1"
+  }
+}
